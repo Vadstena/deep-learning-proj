@@ -8,6 +8,4 @@ Homework 1 involves medical image classification using:
 
 more details can be found in the [project statement](HW1/hw1_description.pdf).
 
-Homework 2 also involved image classification, however, using convolutional neural networks instead. As well as Automatic Speech Recognition (incomplete).
-
-Homework details found in the respective [project statement](HW2/hw2_description.pdf).
+Homework 2 also involves image classification, however, using convolutional neural networks instead. As well as Automatic Speech Recognition (incomplete). Homework details found in the respective [project statement](HW2/hw2_description.pdf).
