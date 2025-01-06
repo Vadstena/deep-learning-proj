@@ -1,0 +1,29 @@
+(IST_DL21_Env) C:\Users\jonas\Desktop\DL\HW1\skeleton_code>python hw1-q2.py -epochs 20 -batch_size 16 -learning_rate 0.001 logistic_regression
+
+Training epoch 19
+Training loss: 1.0171
+Valid acc: 0.6172
+Training epoch 20
+Training loss: 1.0145
+Valid acc: 0.6163
+Final Test acc: 0.6503
+
+(IST_DL21_Env) C:\Users\jonas\Desktop\DL\HW1\skeleton_code>python hw1-q2.py -epochs 20 -batch_size 16 -learning_rate 0.01 logistic_regression
+
+Training epoch 19
+Training loss: 0.9382
+Valid acc: 0.6553
+Training epoch 20
+Training loss: 0.9370
+Valid acc: 0.6535
+Final Test acc: 0.6200
+
+(IST_DL21_Env) C:\Users\jonas\Desktop\DL\HW1\skeleton_code>python hw1-q2.py -epochs 20 -batch_size 16 -learning_rate 0.1 logistic_regression
+
+Training epoch 19
+Training loss: 0.9673
+Valid acc: 0.6140
+Training epoch 20
+Training loss: 0.9687
+Valid acc: 0.6224
+Final Test acc: 0.5577

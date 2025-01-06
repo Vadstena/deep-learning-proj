@@ -1,0 +1,24 @@
+BATCH 16 - 2 min 40 secs
+SIZE DL  6093
+
+
+Training epoch 19
+Training loss: 0.4444
+Valid acc: 0.8018
+Training epoch 20
+Training loss: 0.4379
+Valid acc: 0.8121
+Final Test acc: 0.7675
+
+
+BATCH 1024 - 39 secs
+SIZE DL  96
+
+
+Training epoch 19
+Training loss: 0.8766
+Valid acc: 0.6860
+Training epoch 20
+Training loss: 0.8713
+Valid acc: 0.6960
+Final Test acc: 0.7353

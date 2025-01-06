@@ -1,0 +1,44 @@
+C:\Users\jonas\Desktop\DL\HW1\skeleton_code>python hw1-q2.py -epochs 20 -batch_size 16 -learning_rate 1 -dropout 0 -hidden_size 200 -layers 2 -l2_decay 0 mlp
+
+Training epoch 19
+Training loss: 1.1708
+Valid acc: 0.3435
+Training epoch 20
+Training loss: 1.1714
+Valid acc: 0.4721
+Final Test acc: 0.4726
+
+
+
+C:\Users\jonas\Desktop\DL\HW1\skeleton_code>python hw1-q2.py -epochs 20 -batch_size 16 -learning_rate 0.1 -dropout 0 -hidden_size 200 -layers 2 -l2_decay 0 mlp
+
+Training epoch 19
+Training loss: 0.4444
+Valid acc: 0.8018
+Training epoch 20
+Training loss: 0.4379
+Valid acc: 0.8121
+Final Test acc: 0.7675
+
+
+
+C:\Users\jonas\Desktop\DL\HW1\skeleton_code>python hw1-q2.py -epochs 20 -batch_size 16 -learning_rate 0.01 -dropout 0 -hidden_size 200 -layers 2 -l2_decay 0 mlp
+
+Training epoch 19
+Training loss: 0.4918
+Valid acc: 0.7994
+Training epoch 20
+Training loss: 0.4855
+Valid acc: 0.8166
+Final Test acc: 0.7637
+
+
+(IST_DL21_Env) C:\Users\jonas\Desktop\DL\HW1\skeleton_code>python hw1-q2.py -epochs 20 -batch_size 16 -learning_rate 0.001 -dropout 0 -hidden_size 200 -layers 2 -l2_decay 0 mlp
+
+Training epoch 19
+Training loss: 0.8527
+Valid acc: 0.6857
+Training epoch 20
+Training loss: 0.8420
+Valid acc: 0.6916
+Final Test acc: 0.7108
